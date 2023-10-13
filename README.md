@@ -1,4 +1,4 @@
-<img src="vim-boid-logo-dalle.png" align="right" width="100px"/>
+<img src="vim-boid-logo-dalle.png" align="right" width="250px"/>
 
 # Vim Cloudlunch
 
