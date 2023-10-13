@@ -1,8 +1,18 @@
+<img src="vim-boid-logo-dalle.png" align="right" width="100px"/>
+
 # Vim Cloudlunch
 
-This repository contains a default `.vimrc` config file and the workshop instructions.
+This repository contains the workshop instructions for Vim workshop as well as a default `.vimrc` config file.
+
+<br clear="left"/>
 
 ## Getting Started
+
+Clone this repository:
+
+```
+git clone git@github.com:adrianbartnik/Vim-Cloud-Lunch.git
+```
 
 Copy the `.vimrc` file to your home directory.
 
